@@ -1,0 +1,6 @@
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula.iOS\obj\iPhoneSimulator\Debug\optimized\
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula.iOS\obj\iPhoneSimulator\Debug\CrudAula.iOS.csprojResolveAssemblyReference.cache
+c:\users\lab18m01\source\repos\CrudAula\CrudAula\CrudAula.iOS\obj\iPhoneSimulator\Debug\CrudAula.iOS.csproj.CoreCompileInputs.cache
